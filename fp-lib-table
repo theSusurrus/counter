@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "token_counter")(type "KiCad")(uri "${KIPRJMOD}/token_counter.pretty")(options "")(descr ""))
+)
